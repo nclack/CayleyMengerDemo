@@ -1,3 +1,3 @@
 Circumscribed circles everywhere!
 
-![](_images/Capture.png)
+![](https://github.com/nclack/CayleyMengerDemo/blob/master/_images/Capture.PNG)
